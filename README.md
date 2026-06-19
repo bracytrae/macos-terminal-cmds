@@ -1,4 +1,4 @@
-# macos-terminal-commands
+# macos-terminal-cmds
 
 this repository is a summary of command-line commands I practiced while learning how to use the terminal.
 
