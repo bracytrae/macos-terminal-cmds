@@ -1,8 +1,6 @@
 # macos-terminal-cmds
 
-this repository is a summary of command-line commands I practiced while learning how to use the terminal.
-
-the command line is used to navigate folders, create files and directories, rename items, delete items, and manage projects w/ typed commands, which is incredibly effective and efficient for project folder management compared to using regular graphical user interfaces w/ os systems.
+this repository is a summary of **(CLI)** commands I practiced while learning how to use mac-os terminal. 
 
 ---
 
@@ -63,15 +61,3 @@ ls
 ```
 
 ---
-
-## What I Practiced
-
-* checking my current location
-* listing files and folders
-* moving between folders
-* creating new folders
-* creating new files
-* renaming files and folders
-* moving files
-* deleting files and folders
-* becoming more comfortable using the terminal
