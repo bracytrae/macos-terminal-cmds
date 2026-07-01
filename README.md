@@ -1,7 +1,5 @@
 # macos-terminal-cmds
 
-this repository is a summary of command-line cmds I practiced while learning how to use the mac-os terminal. 
-
 ---
 
 ## nav. cmds
