@@ -1,6 +1,6 @@
 # macos-terminal-cmds
 
-this repository is a summary of **(CLI)** commands I practiced while learning how to use mac-os terminal. 
+this repository is a summary of **(CLI)** commands I practiced while learning how to use the mac-os terminal. 
 
 ---
 
