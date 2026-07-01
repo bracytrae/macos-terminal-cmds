@@ -4,7 +4,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## Navigation Commands
+## nav. cmds
 
 | Command          | What It Does                                     |
 | ---------------- | ------------------------------------------------ |
@@ -16,7 +16,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## File and Folder Commands
+## file & folder cmds
 
 | Command                    | What It Does                              |
 | -------------------------- | ----------------------------------------- |
@@ -30,7 +30,7 @@ this repository is a summary of **(CLI)** commands I practiced while learning ho
 
 ---
 
-## Practice Commands
+## practice cmds
 
 ```bash
 pwd
@@ -45,19 +45,6 @@ mv old-name new-name
 mv file-name folder-name
 rm file-name
 rm -r folder-name
-```
-
----
-
-## Example Practice Workflow
-
-```bash
-pwd
-ls
-mkdir command-line-practice
-cd command-line-practice
-touch README.md
-ls
 ```
 
 ---
