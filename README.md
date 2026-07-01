@@ -1,7 +1,5 @@
 # macos-terminal-cmds
 
----
-
 ## nav. cmds
 
 | Command          | What It Does                                     |
