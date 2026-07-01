@@ -1,6 +1,8 @@
-# macos-terminal-cmds
+# macOS Terminal Commands
 
-## nav. cmds
+This repository contains terminal commands I practiced for moving through folders, creating files, renaming items, and organizing a project from the command line.
+
+## Navigation Commands
 
 | Command          | What It Does                                     |
 | ---------------- | ------------------------------------------------ |
@@ -12,7 +14,7 @@
 
 ---
 
-## file & folder cmds
+## File & Folder Commands
 
 | Command                    | What It Does                              |
 | -------------------------- | ----------------------------------------- |
